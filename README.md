@@ -225,7 +225,7 @@ Issues: GitHub Issues
 Email: jonsnower07@gmail.com
 
 <div align="center">
-Made with ❤️ by Anubhav singh
+Made with ❤️ 
 Happy Reading! 📚
 
 </div>

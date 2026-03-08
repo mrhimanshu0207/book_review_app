@@ -94,9 +94,9 @@ REACT_APP_NAME=BookHub
 **Default Admin Login**
 
 ```
-Username: Neurix
-Password: Neurix@7217secure
-Security Code: PasswordHighzacked
+Username: SoulX
+Password: SoulX@1344
+Security Code: Usernamenotexisted
 ```
 
 Admin capabilities:
@@ -239,7 +239,7 @@ Licensed under the **MIT License**.
 
 * 📘 Documentation: Project Wiki
 * 🐛 Issues: GitHub Issues
-* 📧 Email: **[jonsnower07@gmail.com](mailto:jonsnower07@gmail.com)**
+* 📧 Email: **[pixelviora@gmail.com](mailto:pixelviora@gmail.com)**
 
 ---
 

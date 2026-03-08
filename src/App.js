@@ -328,9 +328,9 @@ class BookHubApp extends Component {
     if (admins.length === 0) {
       const newAdmins = [...admins, {
         id: 1,
-        username: 'Neurix',
-        password: this.hashPassword('Neurix@7217secure'),
-        securityCode: 'PasswordHighzacked',
+        username: 'SoulX',
+        password: this.hashPassword('SoulX@1344'),
+        securityCode: 'Usernamenotexisted',
         createdAt: new Date().toISOString(),
         lastLogin: null,
         isActive: true,
